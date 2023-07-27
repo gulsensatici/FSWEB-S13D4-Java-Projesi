@@ -38,4 +38,5 @@ public class Player {
   public String toString(){
         return "Name:" +name +"HealthPercentage: " + healthPercentage+ "Weapon:"+ weapon;
   }
+
 }
